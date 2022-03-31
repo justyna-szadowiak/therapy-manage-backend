@@ -1,48 +1,20 @@
-{
-    "response": {
-        "data": [
-            {
-                "id": 0,
-                "therapist_vocational_education": "dr",
-                "therapist_name": "",
-                "therapist_surename": "",
-                "kind_of_therapy": []
-            },
-            {
-                "id": 1,
-                "therapist_vocational_education": "dr",
-                "therapist_name": "",
-                "therapist_surename": "",
-                "kind_of_therapy": []
-            },
-            {
-                "id": 2,
-                "therapist_vocational_education": "dr",
-                "therapist_name": "",
-                "therapist_surename": "",
-                "kind_of_therapy": []
-            },
-            {
-                "id": 3,
-                "therapist_vocational_education": "dr",
-                "therapist_name": "",
-                "therapist_surename": "",
-                "kind_of_therapy": []
-            },
-            {
-                "id": 4,
-                "therapist_vocational_education": "dr",
-                "therapist_name": "",
-                "therapist_surename": "",
-                "kind_of_therapy": []
-            },
-            {
-                "id": 5,
-                "therapist_vocational_education": "dr",
-                "therapist_name": "",
-                "therapist_surename": "",
-                "kind_of_therapy": []
-            }
-        ]
+[
+    {
+        "id": 0,
+        "therapist_vocational_education": "dr",
+        "therapist_name": "Błażej",
+        "therapist_surename": "Gomółka"
+    },
+    {
+        "id": 1,
+        "therapist_vocational_education": "dr",
+        "therapist_name": "Elżbieta",
+        "therapist_surename": "Nowak"
+    },
+    {
+        "id": 2,
+        "therapist_vocational_education": "dr",
+        "therapist_name": "Kasandra",
+        "therapist_surename": "Wasilewska-Żbik"
     }
-}
+]

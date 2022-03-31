@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "therapy": "Behavioral therapy",
+        "therapist": "dr Kasandra Wasilewska-Żbik"
+    },
+    {
+        "id": 1,
+        "therapy": "Behavioral therapy",
+        "therapist": "dr Elżbieta Nowak"
+    },
+    {
+        "id": 2,
+        "therapy": "Dialectical behavior therapy",
+        "therapist": "dr Kasandra Wasilewska-Żbik"
+    },
+    {
+        "id": 3,
+        "therapy": "Psychodynamic therapy",
+        "therapist": "dr Błażej Gomółka"
+    },
+    {
+        "id": 4,
+        "therapy": "Emotion-focused therapy",
+        "therapist": "dr Elżbieta Nowak"
+    },
+    {
+        "id": 5,
+        "therapy": "Family therapy",
+        "therapist": "dr Błażej Gomółka"
+    },
+    {
+        "id": 6,
+        "therapy": "Group therapy",
+        "therapist": "dr Elżbieta Nowak"
+    },
+    {
+        "id": 7,
+        "therapy": "Art therapy",
+        "therapist": "dr Błażej Gomółka"
+    },
+    {
+        "id": 8,
+        "therapy": "Therapy with dog",
+        "therapist": "dr Kasandra Wasilewska-Żbik"
+    },
+    {
+        "id": 9,
+        "therapy": "Therapy with dog",
+        "therapist": "dr Błażej Gomółka"
+    }
+]
