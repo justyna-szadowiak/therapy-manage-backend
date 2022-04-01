@@ -10,7 +10,4 @@ interface Name {
 export class InterfaceService {
   number_id: number;
   name: Name;
-  kind_of_therapy: string;
-  date: number;
-  time: number;
 }

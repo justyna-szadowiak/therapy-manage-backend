@@ -5,10 +5,17 @@ import { InterfaceService } from './interface/interface.service';
 import { PatientsController } from './patients/patients.controller';
 import { TherapiesController } from './therapies/therapies.controller';
 import { TherapistsController } from './therapists/therapists.controller';
+import { CalendarController } from './calendar/calendar.controller';
 
 @Module({
   imports: [],
-  controllers: [AppController, PatientsController, TherapiesController, TherapistsController],
+  controllers: [
+    AppController,
+    PatientsController,
+    TherapiesController,
+    TherapistsController,
+    CalendarController,
+  ],
   providers: [AppService, InterfaceService],
 })
 export class AppModule {}
