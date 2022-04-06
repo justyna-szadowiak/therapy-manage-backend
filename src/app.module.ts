@@ -6,6 +6,8 @@ import { PatientsController } from './patients/patients.controller';
 import { TherapiesController } from './therapies/therapies.controller';
 import { TherapistsController } from './therapists/therapists.controller';
 import { CalendarController } from './calendar/calendar.controller';
+import { PlannerForTherapistController } from './plannerForTherapist/plannerForTherapist.controller';
+import { RolesController } from './roles/roles.controller';
 
 @Module({
   imports: [],
@@ -15,6 +17,8 @@ import { CalendarController } from './calendar/calendar.controller';
     TherapiesController,
     TherapistsController,
     CalendarController,
+    PlannerForTherapistController,
+    RolesController,
   ],
   providers: [AppService, InterfaceService],
 })

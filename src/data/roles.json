@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "role": "Admin",
+        "name": "Zofia Raciborska"
+    },
+    {
+        "id": 1,
+        "role": "Therapist",
+        "name": "dr Błażej Gomółka"
+    },
+    {
+        "id": 2,
+        "role": "Therapist",
+        "name": "dr Elżbieta Nowak"
+    },
+    {
+        "id": 3,
+        "role": "Therapist",
+        "name": "dr Kasandra Wasilewska-Żbik"
+    }
+]
