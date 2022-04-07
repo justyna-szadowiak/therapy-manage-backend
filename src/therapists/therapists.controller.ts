@@ -1,5 +1,6 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Param } from '@nestjs/common';
 import * as therapists from '../data/therapists.json';
+import { PlanForTherapist } from '../plannerForTherapist/plannerForTherapist.controller';
 
 interface Therapist {
   id: number;

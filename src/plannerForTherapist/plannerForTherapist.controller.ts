@@ -1,7 +1,7 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Param } from '@nestjs/common';
 import * as plannerForTherapist from '../data/plannerForTherapist.json';
 
-interface PlanForTherapist {
+export interface PlanForTherapist {
   therapist_id: number;
   patient_name: string;
   kind_of_therapy: string;

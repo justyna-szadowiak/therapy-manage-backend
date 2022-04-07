@@ -1,140 +1,188 @@
 [
-    {
-        "patient_id": 1,
-        "kind_of_therapy": "Behavioral therapy",
-        "therapist": "dr Kasandra Wasilewska-Żbik",
-        "date_time": 1649325600000
-    },
-    {
-        "patient_id": 19,
-        "kind_of_therapy": "Behavioral therapy",
-        "therapist": "dr Kasandra Wasilewska-Żbik",
-        "date_time": 1649340000000
-    },
-    {
-        "patient_id": 4,
-        "kind_of_therapy": "Emotion-focused therapy",
-        "therapist": "dr Elżbieta Nowak",
-        "date_time": 1649419200000
-    },
-    {
-        "patient_id": 8,
-        "kind_of_therapy": "Emotion-focused therapy",
-        "therapist": "dr Elżbieta Nowak",
-        "date_time": 1649433600000
-    },
-    {
-        "patient_id": 13,
-        "kind_of_therapy": "Family therapy",
-        "therapist": "dr Błażej Gomółka",
-        "date_time": 1649667600000
-    },
-    {
-        "patient_id": 1,
-        "kind_of_therapy": "Behavioral therapy",
-        "therapist": "dr Kasandra Wasilewska-Żbik",
-        "date_time": 1649676600000
-    },
-    {
-        "patient_id": 16,
-        "kind_of_therapy": "Art therapy",
-        "therapist": "dr Błażej Gomółka",
-        "date_time": 1649687400000
-    },
-    {
-        "patient_id": 18,
-        "kind_of_therapy": "Art therapy",
-        "therapist": "dr Błażej Gomółka",
-        "date_time": 1649687400000
-    },
-    {
-        "patient_id": 17,
-        "kind_of_therapy": "Dialectical behavior therapy",
-        "therapist": "dr Kasandra Wasilewska-Żbik",
-        "date_time": 1649766600000
-    },
-    {
-        "patient_id": 6,
-        "kind_of_therapy": "Therapy with dog",
-        "therapist": "dr Kasandra Wasilewska-Żbik",
-        "date_time": 1649774700000
-    },
-    {
-        "patient_id": 7,
-        "kind_of_therapy": "Therapy with dog",
-        "therapist": "dr Błażej Gomółka",
-        "date_time": 1649774700000
-    },
-    {
-        "patient_id": 10,
-        "kind_of_therapy": "Group therapy",
-        "therapist": "dr Elżbieta Nowak",
-        "date_time": 1649929500000
-    },
-    {
-        "patient_id": 9,
-        "kind_of_therapy": "Group therapy",
-        "therapist": "dr Elżbieta Nowak",
-        "date_time": 1649929500000
-    },
-    {
-        "patient_id": 7,
-        "kind_of_therapy": "Group therapy",
-        "therapist": "dr Elżbieta Nowak",
-        "date_time": 1649929500000
-    },
-    {
-        "patient_id": 11,
-        "kind_of_therapy": "Group therapy",
-        "therapist": "dr Elżbieta Nowak",
-        "date_time": 1649929500000
-    },
-    {
-        "patient_id": 15,
-        "kind_of_therapy": "Behavioral therapy",
-        "therapist": "dr Elżbieta Nowak",
-        "date_time": 1649941200000
-    },
-    {
-        "patient_id": 12,
-        "kind_of_therapy": "Art therapy",
-        "therapist": "dr Błażej Gomółka",
-        "date_time": 1649941200000
-    },
-    {
-        "patient_id": 14,
-        "kind_of_therapy": "Art therapy",
-        "therapist": "dr Błażej Gomółka",
-        "date_time": 1650445200000
-    },
-    {
-        "patient_id": 2,
-        "kind_of_therapy": "Therapy with dog",
-        "therapist": "dr Kasandra Wasilewska-Żbik",
-        "date_time": 1650445200000
-    },
-    {
-        "patient_id": 5,
-        "kind_of_therapy": "Family therapy",
-        "therapist": "dr Błażej Gomółka",
-        "date_time": 1650456000000
-    },
-    {
-        "patient_id": 12,
-        "kind_of_therapy": "Behavioral therapy",
-        "therapist": "dr Elżbieta Nowak",
-        "date_time": 1650465000000
-    },
-    {
-        "patient_id": 15,
-        "kind_of_therapy": "Psychodynamic therapy",
-        "therapist": "dr Błażej Gomółka",
-        "date_time": 1650551400000
-    },
-    {
-        "patient_id": 20,
-        "kind_of_therapy": "Family therapy",
-        "therapist": "dr Błażej Gomółka",
-        "date_time": 1649340000000
-    }
+  {
+    "patient_id": 1,
+    "kind_of_therapy": "Behavioral therapy",
+    "therapist": "dr Kasandra Wasilewska-Żbik",
+    "date_time": 1649325600000
+  },
+  {
+    "patient_id": 19,
+    "kind_of_therapy": "Behavioral therapy",
+    "therapist": "dr Kasandra Wasilewska-Żbik",
+    "date_time": 1649340000000
+  },
+  {
+    "patient_id": 4,
+    "kind_of_therapy": "Emotion-focused therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1649419200000
+  },
+  {
+    "patient_id": 8,
+    "kind_of_therapy": "Emotion-focused therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1649433600000
+  },
+  {
+    "patient_id": 13,
+    "kind_of_therapy": "Family therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1649667600000
+  },
+  {
+    "patient_id": 1,
+    "kind_of_therapy": "Behavioral therapy",
+    "therapist": "dr Kasandra Wasilewska-Żbik",
+    "date_time": 1649676600000
+  },
+  {
+    "patient_id": 16,
+    "kind_of_therapy": "Art therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1649687400000
+  },
+  {
+    "patient_id": 18,
+    "kind_of_therapy": "Art therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1649687400000
+  },
+  {
+    "patient_id": 17,
+    "kind_of_therapy": "Dialectical behavior therapy",
+    "therapist": "dr Kasandra Wasilewska-Żbik",
+    "date_time": 1649766600000
+  },
+  {
+    "patient_id": 6,
+    "kind_of_therapy": "Therapy with dog",
+    "therapist": "dr Kasandra Wasilewska-Żbik",
+    "date_time": 1649774700000
+  },
+  {
+    "patient_id": 7,
+    "kind_of_therapy": "Therapy with dog",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1649774700000
+  },
+  {
+    "patient_id": 10,
+    "kind_of_therapy": "Group therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1649929500000
+  },
+  {
+    "patient_id": 9,
+    "kind_of_therapy": "Group therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1649929500000
+  },
+  {
+    "patient_id": 7,
+    "kind_of_therapy": "Group therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1649929500000
+  },
+  {
+    "patient_id": 11,
+    "kind_of_therapy": "Group therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1649929500000
+  },
+  {
+    "patient_id": 15,
+    "kind_of_therapy": "Behavioral therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1649941200000
+  },
+  {
+    "patient_id": 12,
+    "kind_of_therapy": "Art therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1649941200000
+  },
+  {
+    "patient_id": 14,
+    "kind_of_therapy": "Art therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1650445200000
+  },
+  {
+    "patient_id": 2,
+    "kind_of_therapy": "Therapy with dog",
+    "therapist": "dr Kasandra Wasilewska-Żbik",
+    "date_time": 1650445200000
+  },
+  {
+    "patient_id": 5,
+    "kind_of_therapy": "Family therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1650456000000
+  },
+  {
+    "patient_id": 12,
+    "kind_of_therapy": "Behavioral therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1650465000000
+  },
+  {
+    "patient_id": 15,
+    "kind_of_therapy": "Psychodynamic therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1650551400000
+  },
+  {
+    "patient_id": 20,
+    "kind_of_therapy": "Family therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1649340000000
+  },
+  {
+    "patient_id": 23,
+    "kind_of_therapy": "Family therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1661378400000
+  },
+  {
+    "patient_id": 24,
+    "kind_of_therapy": "Behavioral therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1659477600000
+  },
+  {
+    "patient_id": 25,
+    "kind_of_therapy": "Group therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1653516000000
+  },
+  {
+    "patient_id": 26,
+    "kind_of_therapy": "Art therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1668812400000
+  },
+  {
+    "patient_id": 27,
+    "kind_of_therapy": "Psychodynamic therapy",
+    "therapist": "dr Błażej Gomółka",
+    "date_time": 1655416800000
+  },
+  {
+    "patient_id": 28,
+    "kind_of_therapy": "Behavioral therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1663797600000
+  },
+  {
+    "patient_id": 29,
+    "kind_of_therapy": "Emotion-focused therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1662674400000
+  },
+  {
+    "patient_id": 32,
+    "kind_of_therapy": "Art therapy",
+    "therapist": "dr Elżbieta Nowak",
+    "date_time": 1658008800000
+  }
 ]
