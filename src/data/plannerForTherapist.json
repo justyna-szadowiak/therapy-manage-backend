@@ -1,138 +1,138 @@
 [
     {
-        "therapist_id": 2,
+        "therapist": "dr Kasandra Wasilewska-Żbik",
         "patient_name": "Roch Górka",
         "kind_of_therapy": "Behavioral therapy",
         "date_time": 1649325600000
     },
     {
-        "therapist_id": 2,
+        "therapist": "dr Kasandra Wasilewska-Żbik",
         "patient_name": "Tamara Pasternak",
         "kind_of_therapy": "Behavioral therapy",
         "date_time": 1649340000000
     },
     {
-        "therapist_id": 1,
+        "therapist": "dr Elżbieta Nowak",
         "patient_name": "Gabriela Chmiel",
         "kind_of_therapy": "Emotion-focused therapy",
         "date_time": 1649419200000
     },
     {
-        "therapist_id": 1,
+        "therapist": "dr Elżbieta Nowak",
         "patient_name": "Paweł Dziedzic",
         "kind_of_therapy": "Emotion-focused therapy",
         "date_time": 1649433600000
     },
     {
-        "therapist_id": 0,
+        "therapist": "dr Błażej Gomółka",
         "patient_name": "Lidia Szwedko",
         "kind_of_therapy": "Family therapy",
         "date_time": 1649667600000
     },
     {
-        "therapist_id": 2,
+        "therapist": "dr Kasandra Wasilewska-Żbik",
         "patient_name": "Roch Górka",
         "kind_of_therapy": "Behavioral therapy",
         "date_time": 1649676600000
     },
     {
-        "therapist_id": 0,
+        "therapist": "dr Błażej Gomółka",
         "patient_name": "Serafin Brzezicki",
         "kind_of_therapy": "Art therapy",
         "date_time": 1649687400000
     },
     {
-        "therapist_id": 0,
+        "therapist": "dr Błażej Gomółka",
         "patient_name": "Inga Czajka",
         "kind_of_therapy": "Art therapy",
         "date_time": 1649687400000
     },
     {
-        "therapist_id": 2,
+        "therapist": "dr Kasandra Wasilewska-Żbik",
         "patient_name": "Malwina Jarec",
         "kind_of_therapy": "Dialectical behavior therapy",
         "date_time": 1649766600000
     },
     {
-        "therapist_id": 2,
+        "therapist": "dr Kasandra Wasilewska-Żbik",
         "patient_name": "Dorota Moździerz",
         "kind_of_therapy": "Therapy with dog",
         "date_time": 1649774700000
     },
     {
-        "therapist_id": 0,
+        "therapist": "dr Błażej Gomółka",
         "patient_name": "Alekasander Pogoda",
         "kind_of_therapy": "Therapy with dog",
         "date_time": 1649774700000
     },
     {
-        "therapist_id": 1,
+        "therapist": "dr Elżbieta Nowak",
         "patient_name": "Bożena Chmielec",
         "kind_of_therapy": "Group therapy",
         "date_time": 1649929500000
     },
     {
-        "therapist_id": 1,
+        "therapist": "dr Elżbieta Nowak",
         "patient_name": "Wioletta Kolec",
         "kind_of_therapy": "Group therapy",
         "date_time": 1649929500000
     },
     {
-        "therapist_id": 1,
+        "therapist": "dr Elżbieta Nowak",
         "patient_name": "Alekasander Pogoda",
         "kind_of_therapy": "Group therapy",
         "date_time": 1649929500000
     },
     {
-        "therapist_id": 1,
+        "therapist": "dr Elżbieta Nowak",
         "patient_name": "Karina Dubanowska",
         "kind_of_therapy": "Group therapy",
         "date_time": 1649929500000
     },
     {
-        "therapist_id": 1,
+        "therapist": "dr Elżbieta Nowak",
         "patient_name": "Jolanta Ławniczak",
         "kind_of_therapy": "Behavioral therapy",
         "date_time": 1649941200000
     },
     {
-        "therapist_id": 0,
+        "therapist": "dr Błażej Gomółka",
         "patient_name": "Erwin Wasilewski",
         "kind_of_therapy": "Art therapy",
         "date_time": 1649941200000
     },
     {
-        "therapist_id": 0,
+        "therapist": "dr Błażej Gomółka",
         "patient_name": "Bohdan Jodełka",
         "kind_of_therapy": "Art therapy",
         "date_time": 1650445200000
     },
     {
-        "therapist_id": 2,
+        "therapist": "dr Kasandra Wasilewska-Żbik",
         "patient_name": "Sonia Mencher",
         "kind_of_therapy": "Therapy with dog",
         "date_time": 1650445200000
     },
     {
-        "therapist_id": 0,
+        "therapist": "dr Błażej Gomółka",
         "patient_name": "Jakub Czajkowski",
         "kind_of_therapy": "Family therapy",
         "date_time": 1650456000000
     },
     {
-        "therapist_id": 1,
+        "therapist": "dr Elżbieta Nowak",
         "patient_name": "Erwin Wasilewski",
         "kind_of_therapy": "Behavioral therapy",
         "date_time": 1650465000000
     },
     {
-        "therapist_id": 0,
+        "therapist": "dr Błażej Gomółka",
         "patient_name": "Jolanta Ławniczak",
         "kind_of_therapy": "Psychodynamic therapy",
         "date_time": 1650551400000
     },
     {
-        "therapist_id": 0,
+        "therapist": "dr Błażej Gomółka",
         "patient_name": "Adela Krawczyk",
         "kind_of_therapy": "Family therapy",
         "date_time": 1649340000000
