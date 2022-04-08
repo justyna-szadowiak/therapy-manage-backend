@@ -1,25 +1,33 @@
 import { Module } from '@nestjs/common';
-import { AppController } from './app.controller';
-import { AppService } from './app.service';
-import { InterfaceService } from './interface/interface.service';
-import { PatientsController } from './patients/patients.controller';
-import { TherapiesController } from './therapies/therapies.controller';
-import { TherapistsController } from './therapists/therapists.controller';
-import { CalendarController } from './calendar/calendar.controller';
-import { PlannerForTherapistController } from './plannerForTherapist/plannerForTherapist.controller';
-import { RolesController } from './roles/roles.controller';
+import { PatientsController } from './controllers/patients.controller';
+import { TherapiesController } from './controllers/therapies.controller';
+import { TherapistsController } from './controllers/therapists.controller';
+import { CalendarController } from './controllers/calendar.controller';
+import { PlannerForTherapistController } from './controllers/plannerForTherapist.controller';
+import { PassportModule } from '@nestjs/passport';
+import { JwtModule } from '@nestjs/jwt';
+import * as jwtConstants from './data/jwtConstants.json';
+import { AuthController } from './controllers/auth.controller';
+import { AuthService } from './auth.service';
+import { LoginStrategy } from './strategies/login.strategy';
+import { JwtStrategy } from './strategies/jwt.strategy';
 
 @Module({
-  imports: [],
+  imports: [
+    PassportModule,
+    JwtModule.register({
+      secret: jwtConstants.secret,
+      signOptions: { expiresIn: '1d' },
+    }),
+  ],
   controllers: [
-    AppController,
+    AuthController,
     PatientsController,
     TherapiesController,
     TherapistsController,
     CalendarController,
     PlannerForTherapistController,
-    RolesController,
   ],
-  providers: [AppService, InterfaceService],
+  providers: [AuthService, LoginStrategy, JwtStrategy],
 })
 export class AppModule {}

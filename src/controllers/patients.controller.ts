@@ -1,5 +1,7 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, UseGuards } from '@nestjs/common';
 import * as patients from '../data/patients.json';
+import { JwtGuard } from '../guards/jwt.guard';
+import { RoleGuard } from '../guards/role.guard';
 
 interface Patients {
   number_id: number;
@@ -8,6 +10,8 @@ interface Patients {
   surename: string;
 }
 
+@UseGuards(RoleGuard)
+@UseGuards(JwtGuard)
 @Controller('patients')
 export class PatientsController {
   @Get()

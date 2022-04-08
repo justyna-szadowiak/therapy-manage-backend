@@ -1,5 +1,7 @@
-import { Controller, Get, Param } from '@nestjs/common';
+import { Controller, Get, Param, UseGuards } from '@nestjs/common';
 import * as planner from '../data/planner.json';
+import { JwtGuard } from '../guards/jwt.guard';
+import { RoleGuard } from '../guards/role.guard';
 
 export interface Plan {
   patient_id: number;
@@ -12,6 +14,8 @@ function getRandomArbitrary(min, max) {
   return Math.floor(Math.random() * (max - min) + min);
 }
 
+@UseGuards(RoleGuard)
+@UseGuards(JwtGuard)
 @Controller('calendar')
 export class CalendarController {
   @Get()

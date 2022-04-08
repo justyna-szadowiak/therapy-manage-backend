@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Zofia",
+    "middle_name": "",
+    "surname": "Raciborska",
+    "title": "",
+    "email": "zofia.raciborska@therapy.com",
+    "password": "7c6a180b36896a0a8c02787eeafb0e4c",
+    "is_admin": true
+  },
+  {
+    "id": 1,
+    "name": "Błażej",
+    "middle_name": "",
+    "surname": "Gomółka",
+    "title": "Dr",
+    "email": "blazej.gomolka@therapy.com",
+    "password": "6cb75f652a9b52798eb6cf2201057c73",
+    "is_admin": false
+  },
+  {
+    "id": 2,
+    "name": "Elżbieta",
+    "middle_name": "",
+    "surname": "Nowak",
+    "title": "Dr",
+    "email": "elzbieta.nowak@therapy.com",
+    "password": "819b0643d6b89dc9b579fdfc9094f28e",
+    "is_admin": false
+  },
+  {
+    "id": 3,
+    "name": "Kasandra",
+    "middle_name": "",
+    "surname": "Wasilewska-Żbik",
+    "title": "Dr",
+    "email": "kasandra.wasilewska@therapy.com",
+    "password": "34cc93ece0ba9e3f6f235d4af979b16c",
+    "is_admin": false
+  }
+]

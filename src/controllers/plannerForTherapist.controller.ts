@@ -1,5 +1,6 @@
-import { Controller, Get, Param } from '@nestjs/common';
+import { Controller, Get, Param, UseGuards } from '@nestjs/common';
 import * as plannerForTherapist from '../data/plannerForTherapist.json';
+import { JwtGuard } from '../guards/jwt.guard';
 
 export interface PlanForTherapist {
   therapist: string;
@@ -8,6 +9,7 @@ export interface PlanForTherapist {
   date_time: number;
 }
 
+@UseGuards(JwtGuard)
 @Controller('plannerForTherapist')
 export class PlannerForTherapistController {
   @Get()
