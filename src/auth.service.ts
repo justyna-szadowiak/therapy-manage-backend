@@ -9,7 +9,7 @@ export class AuthService {
   constructor(private jwtService: JwtService) {}
 
   async validateUser(email: string, password: string): Promise<User> {
-    const foundUser = users.find((user) => user.email === email);
+    const foundUser: User = users.find((user) => user.email === email);
     if (foundUser && foundUser.password === password) {
       return foundUser;
     }
@@ -19,7 +19,7 @@ export class AuthService {
   async validateUserProfile(userProfile: UserProfile): Promise<User> {
     const { id } = userProfile;
 
-    const foundUser = users.find((user) => user.id === id);
+    const foundUser: User = users.find((user) => user.id === id);
     if (foundUser && foundUser.id === id) {
       return foundUser;
     }
@@ -27,7 +27,7 @@ export class AuthService {
   }
 
   public async logIn(currentUser: User): Promise<JwtToken> {
-    const { is_admin, password, ...profile } = currentUser;
+    const { password, ...profile } = currentUser;
 
     return { jwt_token: this.jwtService.sign(profile) };
   }
