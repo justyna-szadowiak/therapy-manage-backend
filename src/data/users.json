@@ -6,7 +6,7 @@
     "surname": "Raciborska",
     "title": "",
     "email": "zofia.raciborska@therapy.com",
-    "password": "7c6a180b36896a0a8c02787eeafb0e4c",
+    "password": "cGFzc3dvcmQx",
     "is_admin": true
   },
   {
@@ -16,7 +16,7 @@
     "surname": "Gomółka",
     "title": "Dr",
     "email": "blazej.gomolka@therapy.com",
-    "password": "6cb75f652a9b52798eb6cf2201057c73",
+    "password": "cGFzc3dvcmQy",
     "is_admin": false
   },
   {
@@ -26,7 +26,7 @@
     "surname": "Nowak",
     "title": "Dr",
     "email": "elzbieta.nowak@therapy.com",
-    "password": "819b0643d6b89dc9b579fdfc9094f28e",
+    "password": "cGFzc3dvcmQz",
     "is_admin": false
   },
   {
@@ -36,7 +36,7 @@
     "surname": "Wasilewska-Żbik",
     "title": "Dr",
     "email": "kasandra.wasilewska@therapy.com",
-    "password": "34cc93ece0ba9e3f6f235d4af979b16c",
+    "password": "cGFzc3dvcmQ0",
     "is_admin": false
   }
 ]
